@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+.appBar {
+     box-shadow: none;
+     border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+p {
+     color: #20b96a;
+     font-weight: 540;
+     font-family: 'Kanit', sans-serif;
+}
+
+.title {
+     flex-grow: 1;
+     align-items: center;
+     display: flex;
+     text-decoration: none;
+}
+
+.image {
+     margin-right: 10px;
+}
+
+.grow {
+     flex-grow: 1;
+}

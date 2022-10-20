@@ -1,0 +1,8 @@
+.toolbar {
+     min-height: 64px;
+}
+
+.content {
+     padding: 16px;
+     flex-grow: 1;
+}
